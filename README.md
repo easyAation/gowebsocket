@@ -1,0 +1,2 @@
+# gowebsocket
+这个是我学习go语言练手的一个小项目，使用websocket实现程序和浏览器之间的通信。
